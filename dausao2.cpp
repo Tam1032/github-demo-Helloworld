@@ -10,8 +10,12 @@ void dausao(){
 		}
 		cout<<endl;
 	}
+<<<<<<< HEAD
 }
 int main(){
 	dausao;
+=======
+	cout<<"Để tí cho lỗi"<<endl;
+>>>>>>> f3bdf0a9556bbd6f6ab64a410d7945e175295b65
 	return 0;
 }
