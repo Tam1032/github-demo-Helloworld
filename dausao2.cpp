@@ -10,6 +10,5 @@ int main(){
 		}
 		cout<<endl;
 	}
-	cout<<"Để tí cho lỗi"<<endl;
 	return 0;
 }
